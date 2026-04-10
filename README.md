@@ -24,5 +24,3 @@ En el Notebook (`kcorrect_cosmology_MSG.ipynb`), se implementan las fórmulas pa
 * **Distancia de Diámetro Angular ($d_A$):** Para el estudio del tamaño físico de las fuentes.
 
 Estos cálculos permiten transformar los datos observacionales en parámetros físicos intrínsecos dependientes del redshift ($z$).
-
-   pip install numpy pandas matplotlib astropy
