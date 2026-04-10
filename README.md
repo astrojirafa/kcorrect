@@ -10,8 +10,8 @@ El análisis se divide en tres etapas progresivas:
 | Notebook | Descripción | Enfoque |
 | :--- | :--- | :--- |
 | `kcorrect_1.ipynb` | **Análisis Individual** | Procesamiento y ajuste de SED para una sola galaxia. |
-| `kcorrect_main_sample.ipynb` | **Main Sample Galaxy (MSG)** | Aplicación de correcciones K a gran escala sobre la muestra principal. |
-| `kcorrect_cosmology.ipynb` | **MSG + Cosmología** | Cálculos de distancias cosmológicas integrados para la muestra. |
+| `kcorrect_MSG.ipynb` | **Main Sample Galaxy (MSG)** | Aplicación de correcciones K a gran escala sobre la muestra principal. |
+| `kcorrect_cosmology_MSG.ipynb` | **MSG + Cosmología** | Cálculos de distancias cosmológicas integrados para la muestra. |
 
 ---
 
