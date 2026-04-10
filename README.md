@@ -17,7 +17,7 @@ El análisis se divide en tres etapas progresivas:
 
 ## Cálculos Cosmológicos Incluidos
 
-En el Notebook (`kcorrect_cosmology.ipynb`), se implementan las fórmulas para determinar:
+En el Notebook (`kcorrect_cosmology_MSG.ipynb`), se implementan las fórmulas para determinar:
 
 * **Distancia Comóvil:** Tanto la línea de visión como la distancia comóvil transversa.
 * **Distancia de Luminosidad ($d_L$):** Crucial para determinar magnitudes absolutas.
