@@ -1,6 +1,6 @@
 # K-Correction Analysis & Cosmological Distances
 
-Este repositorio una serie de Jupyter Notebooks diseñados para aplicar el algoritmo **kcorrect** (Blanton et al.) en diferentes escalas, desde galaxias individuales hasta muestras completas como la Muestra Principal de Galaxias de SDSS (Main Sample Galaxy, MSG), incluyendo cálculos de distancias cosmologías.
+Este repositorio contiene una serie de Jupyter Notebooks diseñados para aplicar el algoritmo **kcorrect** (Blanton et al.) en diferentes escalas, desde galaxias individuales hasta muestras completas como la Muestra Principal de Galaxias de SDSS (Main Sample Galaxy, MSG), incluyendo cálculos de distancias cosmologías.
 
 
 ## Contenido del Repositorio
